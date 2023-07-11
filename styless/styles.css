@@ -105,6 +105,12 @@ width: 250px;
 
 
 }
+.tree{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 10%;
+    font-size: 18px;
+}
 .singup{
     display: flex;
     justify-content: space-around;
@@ -142,4 +148,96 @@ width: 250px;
   height: 350px;
   width: 260px;
   padding-top:2%;
+}
+.insta-img{
+    display: flex;
+    justify-content: center;
+    
+}
+.insta{
+    text-align: center;
+}
+.ip{
+    display: block;
+    height: 250px;
+    width: 200px;
+    margin: 1.5%;
+}
+.insta-greetings{
+    font-size: 40px;
+    font-weight: 800px;
+    margin-top:8% ;
+
+}
+.insta-description{
+    font-size:16px ;
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 300;
+    margin-top:10px;
+
+}
+
+.email{
+    text-align: center;
+background-image: url(../images/Rectangle\ 9.png);
+background-repeat: no-repeat;
+background-size: contain;
+margin:3%;
+padding: 3%;
+background-position: center;
+  
+
+}
+.deals{
+    color: #272727;
+    font-size: 35px;
+    font-weight: 800px;
+padding-top: 2%;
+margin-bottom: 8px;
+
+}
+.offer-coupon{
+    font-size: 16px;
+    font-weight: 400;
+
+}
+.input-email{
+    width: 700px;
+    height: 34px;
+    margin:auto;
+    border: none;
+    border-radius: 5px;
+    padding-left: 8px;
+    margin-top: 2%;
+    box-shadow: inset 2px 2px 2px rgb(198, 198, 198);
+
+}
+footer{
+    background-color: #111010;
+    margin-top: 5%;
+    text-align: center;
+}
+.footer-shop{
+   color:#E55473;
+  
+} 
+.footer-title{
+    color:white;
+font-size:40px;
+font-weight:800;
+padding-top:5%;
+
+}
+.footer-description{
+    color:#FFFFFFE5;
+    font-size:18px;
+    font-weight:300;
+    margin-top:3%;
+    
+}
+.footer-reserved{
+    color:#a4a1a1;
+    margin-top:8px;
+    padding-bottom:5%;
+    margin-top:10px;
 }
