@@ -55,6 +55,7 @@ border: none;
   
     justify-content: center;
     margin-top: 20px;
+    margin-bottom: 10%;
 }
 .photo1{
     border-radius: 300px 300px 0px 0px;
@@ -103,4 +104,42 @@ width: 250px;
     padding-top: 50px;
 
 
+}
+.singup{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    background-color: rgba(229, 84, 115, 0.05);
+    width: 100vw;
+    height:500px;
+  
+    
+
+}
+.color-span{
+    color: #E55473;
+}
+.singup-greeting{
+    font-size: 30px;
+    font-weight: 700px;
+    margin-bottom:2%;
+
+}
+.singup-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 600px;
+    width: 600px;
+    margin-bottom: 2%;
+}
+.singup-about{
+    text-align: center;
+    
+
+}
+.singup-img{
+  height: 350px;
+  width: 260px;
+  padding-top:2%;
 }
